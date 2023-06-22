@@ -21,15 +21,15 @@ h6,
 }
 
 .bg-primary {
-  background-color: #c2af89 !important;
+  background-color: #17405d !important;
 }
 
 .text-secondary {
-  color: #343148 !important;
+  color: #314248 !important;
 }
 
 .bg-secondary {
-  background-color: #343148 !important;
+  background-color: #041f2e !important;
 }
 
 .page-section {
@@ -286,7 +286,7 @@ form .row:first-child .floating-label-form-group {
   align-items: center;
   justify-content: center;
   font-size: 2rem;
-  background-color: #c2af89;
+  background-color: #89c29b;
   color: #fff;
   border-radius: 100%;
 }
